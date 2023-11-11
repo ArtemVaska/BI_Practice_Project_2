@@ -7,8 +7,14 @@
 
 Clone this repo: 
 
-```
+```bash
 git clone git@github.com:ArtemVaska/BI_Practice_Project_2.git
+```
+
+Go to created folder:
+
+```bash
+cd BI_Practice_Project_2
 ```
 
 Follow the steps in `Lab_Notes_Project_2_Vasilev_Lisitsa.ipynb`
