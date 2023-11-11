@@ -5,7 +5,7 @@
 
 ## Usage:
 
-Download `Lab_Notes_Project_2_Vasilev_Lisitsa.ipynb` to your local computer and follow the steps in it
+Clone this repo using `git clone git@github.com:ArtemVaska/BI_Practice_Project_2.git` and follow the steps in `Lab_Notes_Project_2_Vasilev_Lisitsa.ipynb`
 
 
 ## Authors:
